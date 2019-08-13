@@ -1,0 +1,17 @@
+FILMES
+    titulo, titulo original, diretor, ano de lançamento, sinopse, IMAGEM, GÊNERO
+
+CLIENTES
+    nome, endereço, telefone
+
+GÊNEROS
+    aventura, ficção, fantasia
+
+EMPRESTIMOS
+    data, filme, cliente, valor, data devolução
+
+LOCALIZAR - cliente e filme
+
+PRINCIPAL
+
+LOCADORA - Base de dados
